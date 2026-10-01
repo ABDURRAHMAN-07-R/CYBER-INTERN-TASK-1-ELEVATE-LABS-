@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.26300.8758]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ABDUR RAHMAN'S PC>nmap -sS 192.168.1.0/24
+Starting Nmap 7.991 ( https://nmap.org ) at 2026-10-01 19:17 +0800
+Stats: 0:01:07 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 39.19% done; ETC: 19:20 (0:01:43 remaining)
+Stats: 0:01:09 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 39.91% done; ETC: 19:20 (0:01:40 remaining)
+Nmap done: 256 IP addresses (0 hosts up) scanned in 208.87 seconds
